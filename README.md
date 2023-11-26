@@ -80,9 +80,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg" title="Vagrant" **alt="Vagrant" width="60" height="60"/>
 <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/getpostman/getpostman-icon.svg" title="Postman" **alt="Postman" width="60" height="60"/>
 <img src="https://user-images.githubusercontent.com/15386828/118396592-e331c880-b658-11eb-8fdc-7426520c691f.png" title="SonarQube" **alt="SonarQube" width="60" height="60"/>
-<img src="" title="Docker" **alt="Docker" width="60" height="60"/>
-<img src="" title="Docker" **alt="Docker" width="60" height="60"/>
-<img src="" title="Docker" **alt="Docker" width="60" height="60"/>
+
 
 
   
