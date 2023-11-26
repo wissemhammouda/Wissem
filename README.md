@@ -13,10 +13,10 @@
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=wissemhammouda&style=for-the-badge&color=blueviolet" alt=""/>
-  <h1>
-  Hello 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTAzdGhmcHY4MHNsMW94ZG9wczNsajY3OWxmNGZtaXFla3NjaDUxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+  <h2>
+  Hello, 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTAzdGhmcHY4MHNsMW94ZG9wczNsajY3OWxmNGZtaXFla3NjaDUxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'am Wissem Hammouda
+</h2>
   <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjVoanoxNXdocWlxYjgxcTdmMzRuYnluYjJnc3pjMm55djBjbm9mMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
@@ -24,7 +24,7 @@
 ---
 
 ### 👨‍🦲_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Tunisia.
+I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Tunisia.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
@@ -87,6 +87,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original-wordmark.svg" title="CentOS" **alt="CentOS" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="60" height="60"/>
+  
 </div>
 
 ---
