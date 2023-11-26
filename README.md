@@ -78,7 +78,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" **alt="React" width="60" height="60"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original-wordmark.svg" title="Tomcat" **alt="Tomcat" width="60" height="60"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg" title="Vagrant" **alt="Vagrant" width="60" height="60"/>
-<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/getpostman/getpostman-icon.svg" title="Postman" **alt="Postman" width="60" height="60"/>
+<img src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" title="Postman" **alt="Postman" width="60" height="60"/>
 <img src="https://user-images.githubusercontent.com/15386828/118396592-e331c880-b658-11eb-8fdc-7426520c691f.png" title="SonarQube" **alt="SonarQube" width="60" height="60"/>
 
 
