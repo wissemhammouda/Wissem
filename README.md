@@ -13,10 +13,10 @@
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=wissemhammouda&style=for-the-badge&color=blueviolet" alt=""/>
-  <h2 style="font-size: 24px;">
+  <h1 style="font-size: 50px;">
   Hello, 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTAzdGhmcHY4MHNsMW94ZG9wczNsajY3OWxmNGZtaXFla3NjaDUxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'am Wissem Hammouda
-</h2>
+</h1>
   <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjVoanoxNXdocWlxYjgxcTdmMzRuYnluYjJnc3pjMm55djBjbm9mMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
