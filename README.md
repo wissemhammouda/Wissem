@@ -35,11 +35,11 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :zap: In my free time, I solve problems on Godingame and read tech articles.
   
-- 📫:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wissem-hammouda/) [![Email Badge](https://img.shields.io/badge/Email-red?style=flat&logo=mail.ru&logoColor=white)](mailto:your-email@example.com)
+- 📫:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wissem-hammouda/) or [![Email Badge](https://img.shields.io/badge/Email-red?style=flat&logo=mail.ru&logoColor=red)](mailto:your-email@example.com)
   ---
 </div>
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️: Languages and Tools :
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="60" height="60"/>&nbsp;
