@@ -35,7 +35,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :zap: In my free time, I solve problems on Godingame and read tech articles.
   
-- 📫:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wissem-hammouda/) or [![Email Badge](https://img.shields.io/badge/Email-red?style=flat&logo=mail.ru&logoColor=white)](mailto:wissem.hammouda7@gmail.com) <a href="mailto:wissem.hammouda7@gmail.com" style="color:blue; text-decoration:underline;">wissem.hammouda7@gmail.com</a>
+- 📫:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wissem-hammouda/) or [![Email Badge](https://img.shields.io/badge/Email-red?style=flat&logo=mail.ru&logoColor=white)](mailto:wissem.hammouda7@gmail.com) <a href="mailto:wissem.hammouda7@gmail.com" style="color:blue; text-decoration:underline;"><u>wissem.hammouda7@gmail.com</u></a>
   ---
 </div>
 
